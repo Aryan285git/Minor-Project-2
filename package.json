@@ -1,0 +1,11 @@
+{
+  "name": "minor-project-2",
+  "version": "1.0.0",
+  "description": "Containerized Web App Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Vardhan Singh",
+  "license": "ISC"
+}
